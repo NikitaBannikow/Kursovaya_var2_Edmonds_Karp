@@ -1,0 +1,11 @@
+﻿  UnitTest_Kursovaya_var2_Edmonds_Karp.cpp
+C:\Users\alexe\source\repos\Kursovaya_var2_Edmonds_Karp\Implementation.cpp(158,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexe\source\repos\Kursovaya_var2_Edmonds_Karp\Implementation.cpp(173,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alexe\source\repos\Kursovaya_var2_Edmonds_Karp\Implementation.cpp(182,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alexe\source\repos\UnitTest_Kursovaya_var2_Edmonds_Karp\UnitTest_Kursovaya_var2_Edmonds_Karp.cpp(38,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alexe\source\repos\UnitTest_Kursovaya_var2_Edmonds_Karp\UnitTest_Kursovaya_var2_Edmonds_Karp.cpp(63,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alexe\source\repos\UnitTest_Kursovaya_var2_Edmonds_Karp\UnitTest_Kursovaya_var2_Edmonds_Karp.cpp(83,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alexe\source\repos\UnitTest_Kursovaya_var2_Edmonds_Karp\UnitTest_Kursovaya_var2_Edmonds_Karp.cpp(106,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alexe\source\repos\UnitTest_Kursovaya_var2_Edmonds_Karp\UnitTest_Kursovaya_var2_Edmonds_Karp.cpp(137,30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alexe\source\repos\UnitTest_Kursovaya_var2_Edmonds_Karp\UnitTest_Kursovaya_var2_Edmonds_Karp.cpp(214,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  UnitTest_Kursovaya_var2_Edmonds_Karp.vcxproj -> C:\Users\alexe\source\repos\UnitTest_Kursovaya_var2_Edmonds_Karp\Debug\UnitTest_Kursovaya_var2_Edmonds_Karp.dll
